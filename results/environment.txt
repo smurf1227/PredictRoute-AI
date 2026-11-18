@@ -1,0 +1,7 @@
+Platform: Windows-10-10.0.19045-SP0
+CPU: AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD
+Python: 3.12.14
+NumPy: 2.5.5
+Matplotlib: 3.11.2
+Seeds: (7, 21, 42, 84, 123)
+One process; wall-clock algorithm times exclude matrix construction and plotting.
