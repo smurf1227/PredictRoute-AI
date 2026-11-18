@@ -117,7 +117,7 @@ python -m http.server 5500 --bind 127.0.0.1
 
 Open the application at [http://127.0.0.1:5500/landing.html](http://127.0.0.1:5500/landing.html). The dashboard is available at [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html), and API documentation is available at [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs).
 
-On first use, open **Register** on the login page to create a local demo account. The HTML dashboard expects the API at `http://127.0.0.1:8000`.
+On first use, select **Create Account** on the login page to create a local demo account. The HTML dashboard expects the API at `http://127.0.0.1:8000`.
 
 ## Troubleshooting
 
@@ -201,6 +201,3 @@ $env:DELAY_CSV_PATH = "ShipmentDelays.csv"
 ## Project origin
 
 PredictRoute AI extends the [Smart Demand Forecasting and Shipment Delay Prediction project](https://github.com/Sanchitk99/Smart-Demand-Forecasting-and-Shipment-Delay-Prediction).
-
-
-
